@@ -1,0 +1,3 @@
+DEFINE_NEAR_METHOD(CandyMachine)
+DEFINE_NEAR_METHOD(obtenerDulces)
+DEFINE_NEAR_METHOD(rellenarDulces)
